@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Cookies",
+        "imagen": "/cookies.jpg",
+        "precio": 500,
+        "descripcion": "Cookies con chips de chocolate"
+    },
+    { 
+        "nombre": "Muffins de chocolate",
+        "imagen": "/muffins.jpg",
+        "precio": 799,
+        "descripcion": "Muffins de chocolate con cacao en polvo"
+    },
+    {
+        "nombre": "Dona con toppings",
+        "imagen": "/masacontoppings.jpg",
+        "precio": 500,
+        "descripcion": "Masa con forma de dona con toppings de distintos sabores"
+    }
+]
